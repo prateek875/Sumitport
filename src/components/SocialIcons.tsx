@@ -1,11 +1,11 @@
 import {
-  FaGithub,
-  FaLinkedinIn,
+  FaBehance,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
 import HoverLinks from "./HoverLinks";
+import { MdEmail } from "react-icons/md";
 
 const SocialIcons = () => {
   useEffect(() => {
@@ -58,19 +58,19 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/thakursumi498" target="_blank">
-            <FaGithub />
+          <a href="https://www.behance.net/prateekbalara0" target="_blank">
+            <FaBehance />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/sumit-thakur-80ba72278" target="_blank">
-            <FaLinkedinIn />
+          <a href="mailto:Prateekbalara0@gmail.com" target="_blank">
+            <MdEmail />
           </a>
         </span>
       </div>
       <a
         className="resume-button"
-        href="https://www.linkedin.com/in/sumit-thakur-80ba72278"
+        href="https://www.behance.net/prateekbalara0"
         target="_blank"
       >
         <HoverLinks text="RESUME" />

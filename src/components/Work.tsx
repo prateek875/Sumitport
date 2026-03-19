@@ -5,27 +5,27 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Mama Giggles",
-    category: "Parenting & Wellness Platform",
-    tools: "HTML5, CSS3, JavaScript, Responsive UI",
+    title: "Development Sector Campaigns",
+    category: "Impact Communication & Design",
+    tools: "USAID, GEAPP, YuWaah!, Smart Power India",
     image: "/images/placeholder.webp",
   },
   {
-    title: "Telemedicine Platform",
-    category: "Healthcare Web Application",
-    tools: "HTML5, CSS3, JavaScript, Interactive Modules",
+    title: "GIZ Multi-Program Creatives",
+    category: "Reports, Branding & Storytelling",
+    tools: "GIZ Karo Sambhav, GIZ SUP, GIZ EY",
     image: "/images/placeholder.webp",
   },
   {
-    title: "Open Source Mentorship",
-    category: "Community & Contribution Enablement",
-    tools: "Git, GitHub, PR Reviews, Documentation",
+    title: "Hospitality Brand Designs",
+    category: "Luxury & Business Hotels",
+    tools: "Taj Jai Mahal Palace, Radisson, Holiday Inn, Diggi Palace",
     image: "/images/preview.png",
   },
   {
-    title: "Portfolio Website",
-    category: "Personal Brand & Showcase",
-    tools: "React.js, TypeScript, Vite, Three.js",
+    title: "Portfolio Showcase",
+    category: "Branding, Motion & Web Visuals",
+    tools: "Photoshop, Illustrator, After Effects, Premiere Pro, Figma",
     image: "/images/Maxlife.png",
   },
 ];

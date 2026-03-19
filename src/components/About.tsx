@@ -6,12 +6,13 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Passionate web developer and open-source contributor focused on building
-          responsive, user-friendly web applications. I enjoy creating clean UI/UX,
-          solving real-world product problems, and collaborating across teams to
-          deliver practical frontend solutions. As a mentor in open-source programs,
-          I also help developers with Git/GitHub workflows, code quality, and
-          contribution best practices.
+          Prateek is an accomplished graphic designer with over six years of
+          experience across diverse industries, including renewable energy,
+          hospitality (Taj Group Hotels), and real estate. He has a proven
+          track record of leading and delivering impactful video and creative
+          projects, technical report design, and storytelling campaigns with a
+          strong focus on branding, visual communication, and user-centric
+          design.
         </p>
       </div>
     </div>

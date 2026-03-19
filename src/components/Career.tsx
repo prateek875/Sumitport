@@ -15,46 +15,47 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Web Developer</h4>
-                <h5>Cosahyog Consultant and Care · New Delhi, India</h5>
+                <h4>Designer</h4>
+                <h5>On Purpose</h5>
               </div>
-              <h3>Oct 2024 – Dec 2024</h3>
+              <h3>Jun 2021 – Present</h3>
             </div>
             <p>
-              Developed responsive web interfaces using HTML5, CSS3, and
-              JavaScript (ES6+), improving user engagement by 30%. Collaborated
-              with cross-functional teams and implemented UI/UX improvements
-              that increased conversion by 15% while ensuring cross-browser
-              compatibility.
+              Leading creative execution across graphics design, web design,
+              branding, and motion graphics for national and global campaigns.
+              Delivered visual work for clients and initiatives including USAID,
+              Bayer, Smart Power India, YuWaah!, GEAPP, Convergence India,
+              GIZ (Karo Sambhav, SUP, EY), BRLF, and Glosolar.in.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Open Source Mentor</h4>
-                <h5>GirlScript Summer of Code (GSSoC) · Remote</h5>
+                <h4>Designer</h4>
+                <h5>Scribble Solutions</h5>
               </div>
-              <h3>May 2025 – Present</h3>
+              <h3>Oct 2020 – May 2021</h3>
             </div>
             <p>
-              Mentored 50+ participants on open-source best practices,
-              contribution workflows, and collaboration standards. Reviewed
-              100+ pull requests with actionable feedback and helped reduce
-              first-time contributor setup time by 40% through onboarding support.
+              Worked on branding and communication design projects with a focus
+              on graphics, web design, and motion graphics. Key brand work
+              included Ananta Hotels & Resorts, Vamika Silver, G.K. Chudiwalas,
+              Gems Paradise, Caffe Birraio, and SoulStir.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>B.Tech (AI & ML)</h4>
-                <h5>Guru Gobind Singh Indraprastha University</h5>
+                <h4>Designer</h4>
+                <h5>Vowels Advertising</h5>
               </div>
-              <h3>Sep 2023 – Aug 2027</h3>
+              <h3>May 2018 – Sep 2020</h3>
             </div>
             <p>
-              Pursuing a Bachelor of Technology in Artificial Intelligence and
-              Machine Learning with CGPA 8.48/10.0. Building a strong foundation
-              in DSA, OOPs, DBMS, CN, and Operating Systems.
+              Delivered branding, graphics, and digital design solutions for
+              hospitality and lifestyle clients including Taj Jai Mahal Palace,
+              Holiday Inn, Radisson Gwalior, Hotel Diggi Palace, Candour Dubai,
+              Burger Farm, JKJ Jeweller, and other premium brands.
             </p>
           </div>
         </div>

@@ -10,42 +10,47 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:thakursumi498@gmail.com" data-cursor="disable">
-                thakursumi498@gmail.com
+              <a href="mailto:Prateekbalara0@gmail.com" data-cursor="disable">
+                Prateekbalara0@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
             <p>
-              <a href="tel:+919267970341" data-cursor="disable">
-                +91 9267970341
+              <a href="tel:+917740891853" data-cursor="disable">
+                +91 7740 891 853
               </a>
+              <br />
+              <a href="tel:+9180056029038" data-cursor="disable">
+                +91 80056 029 038
+              </a>
+            </p>
+            <h4>Address</h4>
+            <p>
+              TA - 70 top floor, near Gopal dairy,<br />
+              Shukar Bazar Road, Uttam Nagar,<br />
+              New Delhi - 110059
             </p>
             <h4>Education</h4>
             <p>
-              B.Tech in Artificial Intelligence & Machine Learning<br />
-              GGSIPU · CGPA: 8.48/10.0
+              Graduation in B.Com. (2015 - 2018)<br />
+              University of Rajasthan<br />
+              Graphic Designing (2017 - 2018)<br />
+              TGC Animation & Multimedia
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/thakursumi498"
+              href="https://www.behance.net/prateekbalara0"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Github <MdArrowOutward />
+              Behance <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/sumit-thakur-80ba72278"
+              href="mailto:Prateekbalara0@gmail.com"
               target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Linkedin <MdArrowOutward />
-            </a>
-            <a
-              href="mailto:thakursumi498@gmail.com"
               data-cursor="disable"
               className="contact-social"
             >
@@ -54,7 +59,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Sumit Thakur</span>
+              Designed and Curated <br /> by <span>Prateek Balara</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

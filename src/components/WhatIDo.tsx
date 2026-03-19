@@ -100,22 +100,22 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>GRAPHIC DESIGN</h3>
+              <h4>Visual Communication That Converts</h4>
               <p>
-                Crafting responsive interfaces with modern frontend practices.
-                I focus on clean layouts, usability, and smooth interactions
-                across mobile and desktop experiences.
+                Designing high-impact social creatives, campaign assets,
+                presentations, reports, and marketing collaterals with a
+                strong focus on clarity, hierarchy, and brand consistency.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Tailwind CSS</div>
-                <div className="what-tags">Bootstrap</div>
-                <div className="what-tags">UI/UX</div>
+                <div className="what-tags">Adobe Photoshop</div>
+                <div className="what-tags">Adobe Illustrator</div>
+                <div className="what-tags">Adobe InDesign</div>
+                <div className="what-tags">CorelDraw</div>
+                <div className="what-tags">Canva</div>
+                <div className="what-tags">PPT Design</div>
+                <div className="what-tags">Figma</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -139,23 +139,23 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>CORE CS & OPEN SOURCE</h3>
-              <h4>Problem Solving & Collaboration</h4>
+              <h3>BRANDING & MOTION</h3>
+              <h4>Storytelling Through Design Systems</h4>
               <p>
-                Applying strong fundamentals and collaboration practices to build
-                better software. I actively mentor contributors and support
-                high-quality open-source contributions.
+                Building complete brand experiences with motion graphics,
+                web visuals, and campaign films. From identity to execution,
+                every output is crafted to support strategy and audience impact.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">C++</div>
-                <div className="what-tags">Java</div>
-                <div className="what-tags">DSA</div>
-                <div className="what-tags">OOPs</div>
-                <div className="what-tags">DBMS</div>
-                <div className="what-tags">Computer Networks</div>
-                <div className="what-tags">Operating Systems</div>
-                <div className="what-tags">Git & GitHub</div>
+                <div className="what-tags">After Effects</div>
+                <div className="what-tags">Premiere Pro</div>
+                <div className="what-tags">Adobe Animate</div>
+                <div className="what-tags">Adobe XD</div>
+                <div className="what-tags">Element 3D</div>
+                <div className="what-tags">Branding</div>
+                <div className="what-tags">Web Design</div>
+                <div className="what-tags">Motion Graphics</div>
               </div>
               <div className="what-arrow"></div>
             </div>
